@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Apr 03 18:38:25 ICT 2020
+0.baseType=DIRECTORY
+0.base=D\:\\KULIAH\\SEM 4\\PAPB 2\\mywalk\\WalkMyAndroid-Starter\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
